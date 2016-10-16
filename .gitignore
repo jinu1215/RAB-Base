@@ -1,0 +1,9 @@
+*.pyc                                                                           
+*.swp
+*~
+.DS_Store
+.settings
+.c9revisions
+db.sqlite3
+__pycache__
+/venv/
